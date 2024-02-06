@@ -1,0 +1,30 @@
+<main
+	class="h-screen w-full border-4 border-yellow-400 bg-[url($lib/images/393_Cover.png)] bg-cover bg-right-top bg-no-repeat p-16 sm:border-red-400 sm:bg-[url($lib/images/640_Cover.png)] md:border-green-400 lg:border-blue-400 lg:bg-[url($lib/images/1280_Cover.png)] lg:bg-right xl:border-purple-600 xl:bg-[url($lib/images/1440_Cover.png)] 2xl:border-emerald-700 2xl:bg-[url($lib/images/1920_Cover.png)]"
+>
+	<div
+		class="mr-auto flex h-full w-full max-w-[1280px] flex-col justify-start lg:w-1/2 lg:items-start lg:justify-center"
+	>
+		<div class="flex flex-col items-center gap-10 lg:items-start">
+			<h1
+				class="text-balance text-center text-5xl font-semibold text-black lg:text-left lg:text-6xl"
+			>
+				Trustless coprocessors <br />
+				<span class="text-blue-700"> for limitless compute</span>
+			</h1>
+		</div>
+		<div
+			class="flex w-full flex-col flex-wrap items-center justify-center gap-4 pt-8 md:flex-row lg:justify-start"
+		>
+			<a
+				href="/"
+				class="w-60 rounded-lg border border-blue-700 bg-white/50 px-4 py-2 text-center text-blue-700 shadow-sm transition-all duration-300 ease-in-out hover:bg-white/70 hover:shadow-lg md:w-auto"
+				>Get in touch with us</a
+			>
+			<a
+				href="/"
+				class="w-60 rounded-lg bg-blue-700 px-4 py-2 text-center text-[#F2F2F9] shadow-lg transition-all duration-300 ease-in-out hover:bg-blue-800 hover:text-white hover:shadow-xl md:w-auto"
+				>Visit marlin.org</a
+			>
+		</div>
+	</div>
+</main>

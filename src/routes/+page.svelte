@@ -1,5 +1,5 @@
 <main
-	class="h-screen w-full border-4 border-yellow-400 bg-[url($lib/images/393_Cover.png)] bg-cover bg-right-top bg-no-repeat p-16 sm:border-red-400 sm:bg-[url($lib/images/640_Cover.png)] md:border-green-400 lg:border-blue-400 lg:bg-[url($lib/images/1280_Cover.png)] lg:bg-right xl:border-purple-600 xl:bg-[url($lib/images/1440_Cover.png)] 2xl:border-emerald-700 2xl:bg-[url($lib/images/1920_Cover.png)]"
+	class="h-screen w-full bg-[url($lib/images/393_Cover.png)] bg-cover bg-right-top bg-no-repeat p-16 sm:bg-[url($lib/images/640_Cover.png)] lg:bg-[url($lib/images/1280_Cover.png)] lg:bg-right xl:bg-[url($lib/images/1440_Cover.png)] 2xl:bg-[url($lib/images/1920_Cover.png)]"
 >
 	<div
 		class="mr-auto flex h-full w-full max-w-[1280px] flex-col justify-start lg:w-1/2 lg:items-start lg:justify-center"

@@ -16,15 +16,18 @@
 			class="flex w-full flex-col flex-wrap items-center justify-center gap-4 pt-8 md:flex-row lg:justify-start"
 		>
 			<a
-				href="https://bit.ly/3BlS71b"
+				href="https://twitter.com/intent/follow?original_referer=https://publish.twitter.com/&region=follow_link&screen_name=MarlinProtocol"
+				target="_blank"
+				data-show-count="false"
 				class="w-60 rounded-lg border border-blue-700 bg-white/50 px-4 py-2 text-center text-blue-700 shadow-sm transition-all duration-300 ease-in-out hover:bg-white/70 hover:shadow-lg md:w-auto"
-				>Get in touch with us</a
+				>Follow us on X</a
 			>
 			<a
-				href="https://bit.ly/3BlS71b"
+				href="https://www.marlin.org/"
 				target="_blank"
 				class="w-60 rounded-lg bg-blue-700 px-4 py-2 text-center text-[#F2F2F9] shadow-lg transition-all duration-300 ease-in-out hover:bg-blue-800 hover:text-white hover:shadow-xl md:w-auto"
-				>Visit marlin.org</a
+			>
+				Visit marlin.org</a
 			>
 		</div>
 	</div>

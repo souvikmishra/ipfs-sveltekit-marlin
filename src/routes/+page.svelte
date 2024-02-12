@@ -11,7 +11,7 @@
 		>
 	</div>
 	<div
-		class="mx-auto flex h-full w-full max-w-[1920px] flex-col justify-start px-4 pt-12 sm:py-10 lg:ml-0 lg:mr-auto lg:w-1/2 lg:items-start lg:justify-center lg:pl-16"
+		class="mx-auto flex h-full w-full max-w-[1920px] flex-col justify-start px-4 pt-12 sm:py-10 lg:ml-0 lg:mr-auto lg:w-1/2 lg:items-start lg:justify-center lg:pl-16 xl:mx-auto xl:w-full"
 	>
 		<div class="flex flex-col items-center gap-8 lg:items-start">
 			<h1
